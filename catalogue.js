@@ -9,9 +9,9 @@ const voitures = [
         prix: "25000 DA / jour",
         categorie: "luxury",
         images: [
-            "../image.jpg/c63s2.jpg",
-            "../image.jpg/c63s5.jpg",
-            "../image.jpg/c63s3.jpg"
+            "image.jpg/c63s2.jpg",
+            "image.jpg/c63s5.jpg",
+            "image.jpg/c63s3.jpg"
         ],
         indexPhoto: 0
     },
@@ -25,14 +25,14 @@ const voitures = [
         prix: "15000 DA / jour",
         categorie: "luxury",
         images: [
-            "../image.jpg/rs3.jpg",
-            "../image.jpg/rs32.jpg",
-            "../image.jpg/rs3.jpg",
-            "../image.jpg/rs34.jpg",
-            "../image.jpg/rs35.jpg",
-            "../image.jpg/rs36.jpg",
-            "../image.jpg/rs37.jpg",
-            "../image.jpg/rs38.jpg"
+            "image.jpg/rs3.jpg",
+            "image.jpg/rs32.jpg",
+            "image.jpg/rs3.jpg",
+            "image.jpg/rs34.jpg",
+            "image.jpg/rs35.jpg",
+            "image.jpg/rs36.jpg",
+            "image.jpg/rs37.jpg",
+            "image.jpg/rs38.jpg"
         ],
         indexPhoto: 0
     },
@@ -46,11 +46,11 @@ const voitures = [
         prix: "40000 DA / jour",
         categorie: "suv",
         images: [
-            "../image.jpg/g.jpg",
-            "../image.jpg/g2.jpg",
-            "../image.jpg/g3.jpg",
-            "../image.jpg/g4.jpg",
-            "../image.jpg/g5.jpg"
+            "image.jpg/g.jpg",
+            "image.jpg/g2.jpg",
+            "image.jpg/g3.jpg",
+            "image.jpg/g4.jpg",
+            "image.jpg/g5.jpg"
         ],
         indexPhoto: 0
     },
@@ -64,11 +64,11 @@ const voitures = [
         prix: "28000 DA / jour",
         categorie: "suv",
         images: [
-            "../image.jpg/macan1.jpg",
-            "../image.jpg/macan2.jpg",
-            "../image.jpg/macan3.jpg",
-            "../image.jpg/macan4.jpg",
-            "../image.jpg/macan5.jpg"
+            "image.jpg/macan1.jpg",
+            "image.jpg/macan2.jpg",
+            "image.jpg/macan3.jpg",
+            "image.jpg/macan4.jpg",
+            "image.jpg/macan5.jpg"
         ],
         indexPhoto: 0
     },
@@ -82,9 +82,9 @@ const voitures = [
         prix: "15500 DA / jour",
         categorie: "eco",
         images: [
-            "../image.jpg/golf8r.jpg",
-            "../image.jpg/golf8r2.jpg",
-            "../image.jpg/golf8r4.jpg",
+            "image.jpg/golf8r.jpg",
+            "image.jpg/golf8r2.jpg",
+            "image.jpg/golf8r4.jpg",
          
         ],
         indexPhoto: 0
@@ -99,11 +99,11 @@ const voitures = [
         prix: "18000 DA / jour",
         categorie: "suv",
         images: [
-            "../image.jpg/svr.jpg",
-            "../image.jpg/svr2.jpg",
-            "../image.jpg/svr3.jpg",
-            "../image.jpg/svr4.jpg",
-            "../image.jpg/svr5.jpg"
+            "image.jpg/svr.jpg",
+            "image.jpg/svr2.jpg",
+            "image.jpg/svr3.jpg",
+            "image.jpg/svr4.jpg",
+            "image.jpg/svr5.jpg"
         ],
         indexPhoto: 0
     },
@@ -117,11 +117,11 @@ const voitures = [
         prix: "20000 DA / jour",
         categorie: "luxury",
         images: [
-            "../image.jpg/c.jpg",
-            "../image.jpg/c2.jpg",
-            "../image.jpg/c3.jpg",
-            "../image.jpg/c4.jpg",
-            "../image.jpg/c5.jpg"
+            "image.jpg/c.jpg",
+            "image.jpg/c2.jpg",
+            "image.jpg/c3.jpg",
+            "image.jpg/c4.jpg",
+            "image.jpg/c5.jpg"
         ],
         indexPhoto: 0
     },
@@ -135,11 +135,11 @@ const voitures = [
         prix: "10000 DA / jour",
         categorie: "moto",
         images: [
-            "../image.jpg/tmax.jpg",
-            "../image.jpg/tmax2.jpg",
-            "../image.jpg/tmax3.jpg",
-            "../image.jpg/tmax4.jpg",
-            "../image.jpg/tmax5.jpg"
+            "image.jpg/tmax.jpg",
+            "image.jpg/tmax2.jpg",
+            "image.jpg/tmax3.jpg",
+            "image.jpg/tmax4.jpg",
+            "image.jpg/tmax5.jpg"
         ],
         indexPhoto: 0
     },
@@ -153,9 +153,9 @@ const voitures = [
         prix: "9000 DA / jour",
         categorie: "moto",
         images: [
-            "../image.jpg/xadv.jpg",
-            "../image.jpg/xadv2.jpg",
-            "../image.jpg/xadv3.jpg"
+            "image.jpg/xadv.jpg",
+            "image.jpg/xadv2.jpg",
+            "image.jpg/xadv3.jpg"
         ],
         indexPhoto: 0
     }
