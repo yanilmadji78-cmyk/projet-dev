@@ -25,14 +25,14 @@ const voitures = [
         prix: "15000 DA / jour",
         categorie: "luxury",
         images: [
-            "image.jpg/rs3.jpg",
-            "image.jpg/rs32.jpg",
-            "image.jpg/rs3.jpg",
-            "image.jpg/rs34.jpg",
-            "image.jpg/rs35.jpg",
-            "image.jpg/rs36.jpg",
-            "image.jpg/rs37.jpg",
-            "image.jpg/rs38.jpg"
+            "rs3.jpg",
+            "rs32.jpg",
+            "rs3.jpg",
+            "rs34.jpg",
+            "rs35.jpg",
+            "rs36.jpg",
+            "rs37.jpg",
+            "rs38.jpg"
         ],
         indexPhoto: 0
     },
