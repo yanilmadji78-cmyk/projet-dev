@@ -9,9 +9,9 @@ const voitures = [
         prix: "25000 DA / jour",
         categorie: "luxury",
         images: [
-            "image.jpg/c63s2.jpg",
-            "image.jpg/c63s5.jpg",
-            "image.jpg/c63s3.jpg"
+            "c63s2.jpg",
+            "c63s5.jpg",
+            "c63s3.jpg"
         ],
         indexPhoto: 0
     },
